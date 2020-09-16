@@ -79,7 +79,7 @@ void printHeaderLine() {
 	const std::string app_version{ "1.0" };
 	const std::string app_release_date{ "31/01/2020" };
 	const std::string app_author{ "Albertroll" };
-	const std::string app_description{ "This program creates an excel file with a list of all the songs contained within a directory." };
+	const std::string app_description{ "This program creates a text file with a list of all the songs contained within a directory." };
 	const int console_width{ 80 };
 
 	cout << centrateText(left_wrapper + app_name + right_wrapper, console_width) << endl
