@@ -4,7 +4,7 @@
 Balkan-Gipsy
    Albums-Mixes
       Balkan Beat Box - Give (2012)
-Big room-New house
+Big room-Bass boosted
 Breakbeat
    The Prodigy - The Day Is My Enemy (2015)
       Artwork
@@ -259,6 +259,8 @@ Hardbass
 Hardcore
    Albums-Mixes
    Oldschool
+   Raw
+   Terror
    Uptempo
 Hardstyle
    Albums-Mixes
@@ -352,6 +354,8 @@ House-Dance
          CD 1
          CD 2
 HxC (kinto music)
+   Emo
+   Screamo
 Jazzy-Elegant
    Albums-Mixes
 Latino-Salsa
@@ -394,6 +398,7 @@ Makina
          CD2
          CD3
 Mashups
+   Albums-Mixes
 METAL-Rock
    Alternative metal
       Deftones - The Best of Deftones (2010) (compilation)
@@ -422,6 +427,7 @@ METAL-Rock
          Videos
       We Are The Ocean - Go Now And Live (2011)
    Black metal
+      Albums-Mixes
       Antidogma - Antidogma (2012) (Viktor Domanov's band)
       Behemoth
          2004 - Demigod
@@ -1123,6 +1129,7 @@ METAL-Rock
    Punk
       Ska
    Punk Rock
+   Rap metal
    Rock
       Baron Rojo - Cueste lo que cueste 1999
          CD 1
@@ -1260,8 +1267,10 @@ Of Da World
    Polish
       Disco polo
       Enej - Folkhorod (2012)
+   Portuguese
    Russian
       Gopnik music
+   Turkish
 OTROS
    Albums-Mixes
       Andy Rehfeldt covers
@@ -1294,6 +1303,7 @@ OTROS
 Psychedelic-Deep vibes
    Albums-Mixes
 Psytrance
+   Albums-Mixes
    Progressive psy (static)
       Albums-Mixes
 Reagge-Dub
@@ -1301,11 +1311,13 @@ Reagge-Dub
 Swing-Electroswing
    Albums-Mixes
 Techno
+   Albums-Mixes
 Tekno
+   Acid
    Hardtek
    Raggatek
    Schranz
-   Tribe
+   Tribe and other
 Trance
    Albums-Mixes
 Trap
